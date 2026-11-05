@@ -1,6 +1,4 @@
-\# FirstHourUE
+# FirstHourUE
 
-
-
-It's my first time to use Unreal Engine 5!
+It's my first time using Unreal Engine 5!
 
